@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="250" src="https://i.makeagif.com/media/5-05-2016/pTRW3v.gif">
+  <img width="800" height="350" src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif?w=800">
 </p>
 
 #   <p align="center"> *When you think it’s too late, the truth is, it’s still early.*  </p>
