@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="350" src="https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203333135-LLNIKB08AXJFYQ29N7SM/AI.gif">
+  <img width="800" height="350" src="https://scitechdaily.com/images/Left-Right-Brain-Signals.gif">
 </p>
 
 #   <p align="center"> *When you think it’s too late, the truth is, it’s still early.*  </p>
